@@ -1,6 +1,6 @@
 body{
 
-    background: #1e1f24;
+    background: #e2e2e7;
     color: #333;
     text-align: left;
     font-family: 'Arial';
@@ -45,18 +45,10 @@ body{
     font-size: 40px;
 }
 
-<<<<<<< HEAD
 #footer
 {
     background: white;
-    color: white;
+    color: rgb(34, 29, 29);
     text-align: center;
 }
 
-=======
-#post
-{
-    background: white;
-    padding: 1em;
-}
->>>>>>> header
